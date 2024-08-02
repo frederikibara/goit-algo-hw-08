@@ -12,7 +12,7 @@ It handles user interactions such as adding, modifying and displaying contacts.
 Update 0.6 :
    - formatted address book display with emoji
    - added serialize module (for save/load -> to/from file)
-   - structure optimization
+   - program structure modules are grouped into folders
 
 Commands:
     - hello : Just a greeting.
